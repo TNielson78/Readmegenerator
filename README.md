@@ -54,5 +54,5 @@ SOFTWARE.
 ![Readme clip1](https://github.com/TNielson78/Readmegenerator/assets/147010160/9f6d66aa-7d16-43d4-ad72-debd11233f71)
 
 Github repo:https://github.com/TNielson78
-Deployed link:
+Credits: Hyrum Dolan and starter project code from U of U bootcamp docs.
 
