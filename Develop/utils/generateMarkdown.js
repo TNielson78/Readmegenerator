@@ -50,6 +50,7 @@ ${renderLicenseBadge(data.license)}
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
+*[Languages](#languages) 
 ${renderLicenseLink(data.license)}
 ## Description
 ${data.description}
@@ -61,6 +62,10 @@ ${data.usage}
 ${data.contributing}
 ## Tests
 ${data.tests}
+## Languages
+${data.description}
+## Future Development
+${data.description}
 ## Questions
 * GitHub: [${data.github}](
 * Email: ${data.email}

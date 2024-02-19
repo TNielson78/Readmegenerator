@@ -40,6 +40,16 @@ const questions = [
         message: 'How to test the project?',
     },
     {
+        type: 'input',
+        name: 'languages',
+        message: 'What languages are used in the project?',
+    },
+    {
+        type: 'input',
+        name: 'development',
+        message: 'What future development is planned for the project?',
+    },
+    {
         type: 'list',
         name: 'license',
         message: 'What is the license for the project?',
